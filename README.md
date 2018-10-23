@@ -77,7 +77,7 @@ July 2013 to May 2016
 - founded the [Value Flows](https://www.valueflo.ws) project to develop a shared vocabulary for interoperable economic network software
 - learned how to faciliate the Craftworks network of freelancers, to provide support for spaces in between the contract work
 
-### Network Manager at Berkeley Student Cooperative
+### Network Manager @ Berkeley Student Cooperative
 
 July 2012 to June 2014
 
