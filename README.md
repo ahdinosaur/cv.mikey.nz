@@ -23,6 +23,8 @@
 
 ### Co-Founder & CTO @ [Root Systems](https://www.rootsystems.nz)
 
+![Root Systems retreat](./images/root-systems.jpg)
+
 May 2016 to present
 
 - maintained technical principles, stacks, and assets for team of 7 developers
@@ -36,6 +38,8 @@ May 2016 to present
 
 ### Core Contributor @ [Scuttlebutt](https://www.scuttlebutt.nz)
 
+![Scuttlebutt coloring session at the Decentralized Web Summit](./images/scuttlebutt.jpg)
+
 August 2014 to present
 
 - develop and maintain the [scuttlebutt.nz](https://www.scuttlebutt.nz) website to share more than the "what" and "how" of technical documentation: the "why" of cultural principles
@@ -46,6 +50,8 @@ August 2014 to present
 - support swarm of technical developers, sharing relevant information across parallel work streams, providing code reviews, and giving feedback
 
 ### Founder & Host @ [Art~Hack Wellington](https://arthack.nz)
+
+![Art~Hack gathering](./images/art-hack.jpg)
 
 July 2014 to present
 
