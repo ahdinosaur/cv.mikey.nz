@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="./images/selfie.jpg" alt="selfie" width="300px" />
 
-  Mikey (@ahdinosaur) Williams ☀️😺🌈
+  Mikey (@ahdinosaur) Williams ☀️🌈😺
 </h1>
 
 - Website: [dinosaur.is](https://dinosaur.is)
