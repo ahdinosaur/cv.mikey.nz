@@ -2,8 +2,9 @@
 
 ![selfie](./images/selfie.jpg)
 
-- Email: mikey+cv@enspiral.com
-- Location: Newtown, Wellington, New Zealand
+- Website: [dinosaur.is](https://dinosaur.is)
+- Email: [mikey+cv@enspiral.com](mailto:mikey+cv@enspiral.com)
+- Location: [Newtown, Wellington, New Zealand](https://en.wikipedia.org/wiki/Newtown%2C_New_Zealand)
 
 ## Skills
 
