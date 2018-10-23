@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="./images/selfie.jpg" alt="selfie" width="300px" />
 
-  Mikey Williams ☀️🌈😺
+  😺🎉Mikey Williams ☀️🌈
 </h1>
 
 - Website: [dinosaur.is](https://dinosaur.is)
@@ -11,12 +11,12 @@
 ## Skills
 
 - effective at amplifying junior and intermediate developers with technical and organizational support and coaching
+- confident in leading teams into uncharted territories, creating legible maps, and spinning up strategic work streams for other developers
+- understand JavaScript web app stacks from top to bottom, have reinvented a full-stack framework from scratch using purely bespoke modules, have composed yet another framework from popular-choice modules, have setup countless other stacks using every pattern imaginable
 - practiced in circumspect group facilitation, from everyday meetings to project retrospectives to community engagement to long-term company retreats
-- experienced in leading a team into uncharted territories, exploring the unknown, creating legible maps, and spinning up work streams
-- proficient with JavaScript, Rust, Ruby (on Rails), Bash, Python, Clojure, and C
-- performant in using open platforms and web technologies to quickly create accessible, responsive, and magical user-centric apps
-- skilled in using Linux systems for every occasion, from personal use to adminstration
-- most comfortable either holding space for many or in front of a command line with myself
+- proficient with JavaScript, Rust, Ruby (on Rails), Python, Clojure, and C
+- performant in using decentralized platforms (Scuttlebutt, Dat, IPFS, Bitcoin) and web technologies (React, Angular, HTML & CSS) to quickly create accessible, responsive, and magical user-centric apps
+- skilled in using Linux systems for every occasion, from personal use to adminstration, from scaling infrastructure (Docker Swarm or Kubernetes or Salt Stack) to managing a system (Debian, Bash, Systemd)
 
 ## References
 
@@ -53,6 +53,7 @@ August 2014 to present
 - lead by example on a culture of welcoming newbies with friendly open questions
 - act as the "cypherhistorian / cryptoarcheologist / peerlibrarian": curating existing knowledge, organizing links, and routing humans on where they can discover the answers they seek
 - support swarm of technical developers, sharing relevant information across parallel work streams, providing code reviews, and giving feedback
+- building [PeachCloud](https://github.com/peachcloud/meta) 🍑☁️, a Scuttlebutt infrastructure-as-a-service product
 
 ### Founder & Host @ [Art~Hack Wellington](https://arthack.nz)
 
