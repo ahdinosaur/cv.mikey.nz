@@ -1,6 +1,8 @@
+<div style="text-align: center;">
 # Mikey (@ahdinosaur) Williams
 
-![selfie](./images/selfie.jpg)
+<img src="./images/selfie.jpg" alt="selfie" width="400px" />
+</div>
 
 - Website: [dinosaur.is](https://dinosaur.is)
 - Email: [mikey+cv@enspiral.com](mailto:mikey+cv@enspiral.com)
