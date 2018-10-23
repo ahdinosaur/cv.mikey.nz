@@ -1,5 +1,7 @@
 # Mikey (@ahdinosaur) Williams
 
+![selfie](./images/selfie.jpg)
+
 - Email: mikey+cv@enspiral.com
 - Location: Newtown, Wellington, New Zealand
 
