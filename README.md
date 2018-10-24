@@ -1,6 +1,6 @@
 <img src="./images/selfie.jpg" alt="selfie" width="300px" />
 
-#  😺🎉Mikey Williams ☀️🌈
+#  😺🎉 Mikey Williams ☀️🌈
 
 - Website: [dinosaur.is](https://dinosaur.is)
 - Email: [mikey+cv@enspiral.com](mailto:mikey+cv@enspiral.com)

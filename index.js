@@ -14,16 +14,22 @@ unified()
   .use(markdown)
   .use(transform)
   .use(raw)
-  .use(() => {
+  .use((options) => {
     // pass options at runtime
     // to wait until we know the title
     var transformer
     return (tree, file) => {
       if (transformer == null) {
-        transformer = doc({ title })
+        transformer = doc(Object.assign({ title }, options))
       }
       return transformer(tree,  file)
     }
+  }, {
+    css: [
+      //'https://fonts.googleapis.com/css?family=Robot',
+      //'https://cdn.jsdelivr.net/npm/markdown-splendor@1/css/splendor.css',
+      './index.css'
+    ]
   })
   .use(format)
   .use(html)
