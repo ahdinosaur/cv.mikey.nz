@@ -1,15 +1,4 @@
-img {
-  max-width: 60rem;
-  display: block;
-  margin: 0 auto;
-}
-
-img.emoji {
-  display: inline;
-  width: 64px;
-}
-
-/* below heavily copied from http://markdowncss.github.io/splendor/ */
+/* heavily copied from http://markdowncss.github.io/splendor/ */
 
 @media print {
   *,
@@ -72,18 +61,49 @@ img.emoji {
 }
 
 html {
-  font-size: 12px;
+  font-size: 15px;
+}
+
+.emoji {
+  display: inline;
+}
+
+
+@media screen {
+  .emoji {
+    width: 64px;
+  }
+
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 @media screen and (min-width: 32rem) and (max-width: 48rem) {
   html {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 
 @media screen and (min-width: 48rem) {
   html {
-    font-size: 16px;
+    font-size: 17px;
+  }
+
+  .emoji {
+    width: 128px;
+  }
+}
+
+@media screen and (min-width: 60rem) {
+  html {
+    font-size: 18px;
+  }
+
+  img {
+    max-width: 60rem;
   }
 }
 
@@ -139,7 +159,6 @@ small {
 
 html {
   background-color: #d3c5f0;
-  font-size: 18px;
   max-width: 100%;
 }
 
