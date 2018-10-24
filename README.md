@@ -1,6 +1,6 @@
-<img src="./images/selfie.jpg" alt="selfie" width="300px" />
-
 #  😺🎉 Mikey Williams ☀️🌈
+
+<img src="./images/selfie.jpg" alt="selfie" width="350px" />
 
 - Website: [dinosaur.is](https://dinosaur.is)
 - Email: [mikey+cv@enspiral.com](mailto:mikey+cv@enspiral.com)
@@ -26,7 +26,7 @@
 
 ### Co-Founder & CTO @ [Root Systems](https://www.rootsystems.nz)
 
-![Root Systems retreat](./images/root-systems.jpg)
+<img src="./images/root-systems.jpg" alt="Root Systems retreat" />
 
 May 2016 to present
 
@@ -41,7 +41,7 @@ May 2016 to present
 
 ### Core Contributor @ [Scuttlebutt](https://www.scuttlebutt.nz)
 
-![Scuttlebutt coloring session at the Decentralized Web Summit](./images/scuttlebutt.jpg)
+<img alt="Scuttlebutt coloring session at the Decentralized Web Summit" src="./images/scuttlebutt.jpg" />
 
 August 2014 to present
 
@@ -55,7 +55,7 @@ August 2014 to present
 
 ### Founder & Host @ [Art~Hack Wellington](https://arthack.nz)
 
-![Art~Hack gathering](./images/art-hack.jpg)
+<img alt="Art~Hack gathering" src="./images/art-hack.jpg" />
 
 July 2014 to present
 
