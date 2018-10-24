@@ -1,6 +1,6 @@
 #  Mikey Williams
 
-<img src="./images/selfie.jpg" alt="selfie" width="350px" />
+<img src="./images/selfie.jpg" alt="selfie" width="400px" />
 
 # 😺🎉☀️🌈
 
