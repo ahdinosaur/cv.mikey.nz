@@ -4,6 +4,8 @@ img {
   margin: 0 auto;
 }
 
+/* below heavily copied from http://markdowncss.github.io/splendor/ */
+
 @media print {
   *,
   *:before,
