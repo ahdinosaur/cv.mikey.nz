@@ -4,6 +4,11 @@ img {
   margin: 0 auto;
 }
 
+img.emoji {
+  display: inline;
+  width: 64px;
+}
+
 /* below heavily copied from http://markdowncss.github.io/splendor/ */
 
 @media print {
