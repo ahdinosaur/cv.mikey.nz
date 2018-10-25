@@ -1,112 +1,4 @@
 /* heavily copied from http://markdowncss.github.io/splendor/ */
-
-@media print {
-  *,
-  *:before,
-  *:after {
-    background: transparent !important;
-    color: #000 !important;
-    box-shadow: none !important;
-    text-shadow: none !important;
-  }
-
-  a,
-  a:visited {
-    text-decoration: underline;
-  }
-
-  a[href]:after {
-    content: " (" attr(href) ")";
-  }
-
-  abbr[title]:after {
-    content: " (" attr(title) ")";
-  }
-
-  a[href^="#"]:after,
-  a[href^="javascript:"]:after {
-    content: "";
-  }
-
-  pre,
-  blockquote {
-    border: 1px solid #999;
-    page-break-inside: avoid;
-  }
-
-  thead {
-    display: table-header-group;
-  }
-
-  tr,
-  img {
-    page-break-inside: avoid;
-  }
-
-  img {
-    max-width: 100% !important;
-  }
-
-  p,
-  h2,
-  h3 {
-    orphans: 3;
-    widows: 3;
-  }
-
-  h2,
-  h3 {
-    page-break-after: avoid;
-  }
-}
-
-html {
-  font-size: 15px;
-}
-
-.emoji {
-  display: inline;
-}
-
-
-@media screen {
-  .emoji {
-    width: 64px;
-  }
-
-  img {
-    max-width: 100%;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
-@media screen and (min-width: 32rem) and (max-width: 48rem) {
-  html {
-    font-size: 16px;
-  }
-}
-
-@media screen and (min-width: 48rem) {
-  html {
-    font-size: 17px;
-  }
-
-  .emoji {
-    width: 128px;
-  }
-}
-
-@media screen and (min-width: 60rem) {
-  html {
-    font-size: 18px;
-  }
-
-  img {
-    max-width: 60rem;
-  }
-}
-
 body {
   line-height: 1.85;
 }
@@ -228,3 +120,125 @@ a:focus,
 a:active {
   color: #584383;
 }
+
+@media print {
+  *,
+  *:before,
+  *:after {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  a[href^="#"]:after,
+  a[href^="javascript:"]:after {
+    content: "";
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+  }
+
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2 {
+    page-break-before: always;
+  }
+  h3 {
+    page-break-after: avoid;
+  }
+}
+
+html {
+  font-size: 15px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.emoji {
+  display: inline;
+  width: 32px;
+}
+
+h1 .emoji {
+  width: 64px;
+}
+
+@media screen {
+  h1 {
+    padding: 1rem !important;
+  }
+}
+
+@media screen and (min-width: 32rem) and (max-width: 48rem) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+  html {
+    font-size: 17px;
+  }
+
+  h1 .emoji {
+    width: 96px;
+  }
+
+  h1 {
+    padding: 2rem !important;
+  }
+}
+
+@media screen and (min-width: 60rem) {
+  html {
+    font-size: 18px;
+  }
+
+  h1 .emoji {
+    width: 128px;
+  }
+
+  img {
+    max-width: 60rem;
+  }
+}
+
