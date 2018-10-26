@@ -20,6 +20,14 @@
 
 ## References
 
+### [Mix](https://github.com/mixmix)
+
+> I'm writing to recommend Mikey as a human for you to work with. Mikey is hands down my top pick of people I would hire to work with if I could (I'm really critical, and this is not hyperbole)
+>
+> Here's my experience of working with Mikey.
+>
+> [... read more ...](./references/mix.html)
+
 ### [Mischa Saunders](https://github.com/mischa-s/)
 
 > I feel very lucky to have worked with Mikey on the Minded Web App. His enthusiasm for code is infectious. His ability and willingness to tackle hard problems amazed me. Mikey was a very supportive and patient mentor. He pushed me to solve problems at the edges of my comfort zone with kindness and was enthusiastic about walking me through problems I struggled with. He is also a wonderful human to work with, who will always prioritize people care before solving technical problems, creating a productive and enjoyable work environment.
