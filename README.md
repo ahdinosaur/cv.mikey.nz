@@ -11,8 +11,9 @@
 ## Skills
 
 - effective at amplifying junior and intermediate developers with technical and organizational support and coaching
-- confident in leading teams into uncharted territories, creating legible maps, and spinning up strategic work streams for other developers
-- understand JavaScript web app stacks from top to bottom, have reinvented a full-stack framework from scratch using purely bespoke modules, have composed yet another framework from popular-choice modules, have setup countless other stacks using every pattern imaginable
+- strong at communicating complex technical concepts using only simple and accessible terms
+- confident in leading teams into uncharted territories, deconstructing intractable problems, creating legible maps, and spinning up strategic work streams for other developers
+- understand JavaScript web app stacks from top to bottom by reinventing the wheels multiple times
 - practiced in circumspect group facilitation, from everyday meetings to project retrospectives to community engagement to long-term company retreats
 - proficient with JavaScript, Rust, Ruby (on Rails), Python, Clojure, and C
 - performant in using decentralized platforms (Scuttlebutt, Dat, IPFS, Bitcoin) and web technologies (React, Angular, HTML & CSS) to quickly create accessible, responsive, and magical user-centric apps
