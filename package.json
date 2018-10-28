@@ -5,7 +5,7 @@
   "description": "dinosaur's cv",
   "scripts": {
     "build": "node .",
-    "dist": "npm run build && mkdir -p dist && cp -r index.html index.css images dist"
+    "dist": "npm run build && mkdir -p dist && cp -r index.html index.css images references dist"
   },
   "repository": {
     "type": "git",
