@@ -109,7 +109,7 @@ August 2010 to June 2013
 
 January 2012 to April 2013
 
-- wrote software to facilitate the job of the team i was originally hired for
+- wrote software to facilitate the job of the team I was originally hired for
 
 ### Founder @ [Cal Security Enthusiasts Club](http://calsec.berkeley.edu)
 
