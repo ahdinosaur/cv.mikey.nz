@@ -12,7 +12,7 @@ I host group spaces to empower others, not only in a technical or strategic sens
 
 I've undergone a wide arc of experiments in reinventing wheels, from playing with new technology stacks to playing with social business structures to playing with cultural memes, I have a deep understanding of _how things work_, I've made enough mistakes to learn how to _choose my battles_.
 
-I now want to use my skills to lead teams in delivering tangible value.
+I now want to use my skills to lead teams in delivering value to meet clear outcomes.
 
 - Website: [dinosaur.is](https://dinosaur.is)
 - Email: [mikey+cv@enspiral.com](mailto:mikey+cv@enspiral.com)
