@@ -4,6 +4,16 @@
 
 # 😺🎉☀️🌈
 
+Hi, I'm Mikey! 👋
+
+I'm a senior developer, technical coach, artist, facilitator, and community organizer.
+
+I host group spaces to empower others, not only in a technical or strategic sense, but also a cultural or caring sense. I prioritize the well-being of my community (and myself), which feeds into the strength of my projects.
+
+I've undergone a wide arc of experiments in reinventing wheels, from playing with new technology stacks to playing with social business structures to playing with cultural memes, I have a deep understanding of _how things work_, I've made enough mistakes to learn how to _choose my battles_.
+
+I now want to use my skills to lead teams in delivering tangible value.
+
 - Website: [dinosaur.is](https://dinosaur.is)
 - Email: [mikey+cv@enspiral.com](mailto:mikey+cv@enspiral.com)
 - Location: [Newtown, Wellington, New Zealand](https://en.wikipedia.org/wiki/Newtown%2C_New_Zealand)
