@@ -43,6 +43,10 @@ I now want to use my skills to lead teams in delivering value to meet clear outc
 
 > I feel very lucky to have worked with Mikey on the Minded Web App. His enthusiasm for code is infectious. His ability and willingness to tackle hard problems amazed me. Mikey was a very supportive and patient mentor. He pushed me to solve problems at the edges of my comfort zone with kindness and was enthusiastic about walking me through problems I struggled with. He is also a wonderful human to work with, who will always prioritize people care before solving technical problems, creating a productive and enjoyable work environment.
 
+### [Gregory Kan](https://gregorykan.com/about/)
+
+> Mikey has been my teammate for the past two years, and he's played a big part in shaping the team's culture, technical capabilities, and strategic direction. He works with a great degree of care and consideration to match his impressive technical expertise. So not only is he a fantastic developer, he's an active community member and facilitator. His ties and contributions to the Enspiral, SSB and open-source communities speak to this point. I strongly endorse Mikey as a coworker and all-round human being.
+
 ### [Richard D. Bartlett](http://richdecibels.com/)
 
 > [Mikey, you have] impeccable vibe hygiene. This means you pay close attention to how bodies feel in space and I've only ever seen you act in ways that improve the quality of that feeling. It means I know you'll keep an eye and ear on the lighting and acoustics of a room. I trust you would intervene graciously if some brute were disturbing the convivial atmosphere at a party. I trust you to look after me when [in a vulnerable situation].
