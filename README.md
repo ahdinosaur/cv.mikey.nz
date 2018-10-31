@@ -49,7 +49,7 @@ I now want to use my skills to lead teams in delivering value to meet clear outc
 
 ### [Richard D. Bartlett](http://richdecibels.com/)
 
-> [Mikey, you have] impeccable vibe hygiene. This means you pay close attention to how bodies feel in space and I've only ever seen you act in ways that improve the quality of that feeling. It means I know you'll keep an eye and ear on the lighting and acoustics of a room. I trust you would intervene graciously if some brute were disturbing the convivial atmosphere at a party. I trust you to look after me when [in a vulnerable situation].
+> I know Mikey has excellent technical skills, but what first comes to mind for me is his character. He is attentive, caring, patient, creative, and self-aware. He moves from a place of deep integrity and curiosity. I trust him absolutely, and can recommend him without reservation. He will deliver exceptional work while elevating the performance of his team. Mikey is one of those rare birds that combines technical excellence with emotional intelligence. And he is a great dancer 💃
 
 ## Current Work
 
