@@ -165,7 +165,26 @@ a:active {
   }
 
   img {
+    width: 20rem !important;
     max-width: 100% !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+  }
+
+  .emoji {
+    width: 32px !important;
+  }
+
+  h1 .emoji {
+    width: 64px !important;
+  }
+
+  h1 {
+    font-size: 3rem !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0.25rem !important;
   }
 
   p,
