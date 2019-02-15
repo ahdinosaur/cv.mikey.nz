@@ -6,7 +6,7 @@
 
 Hi, I'm Mikey! 👋
 
-I'm a senior developer, technical coach, artist, facilitator, and community organizer.
+I'm a senior developer, technical coach, community organizer, facilitator, and artist.
 
 I host group spaces to empower others, not only in a technical or strategic sense, but also a cultural or caring sense. I prioritize the well-being of my community (and myself), which feeds into the strength of my projects.
 
@@ -53,34 +53,19 @@ I now want to use my skills to lead teams in delivering value to meet clear outc
 
 ## Current Work
 
-### Co-Founder & CTO @ [Root Systems](https://www.rootsystems.nz)
-
-<img src="./images/root-systems.jpg" alt="Root Systems retreat" />
-
-May 2016 to present
-
-- maintained technical principles, stacks, and assets for team of 7 developers
-- facilitated team meetings, away days, and retreats to unpack latent senses and re-pack into coherent strategy
-- organize and adapt team processes to support productive work from healthy and happy humans
-- developed full-stack JavaScript frameworks, one [from scratch](https://github.com/root-systems/catstack), one [from existing libraries](https://github.com/root-systems/dogstack), used by the team on real-world projects
-- delivered value for clients and delightful software for users:
-  - [Minded](http://mindedapp.com/)
-  - [Connection](https://www.makebamboo.com/connection/)
-  - [WebPunch](https://webpunch12.com/)
-
 ### Core Contributor @ [Scuttlebutt](https://www.scuttlebutt.nz)
 
 <img alt="Scuttlebutt coloring session at the Decentralized Web Summit" src="./images/scuttlebutt.jpg" />
 
 August 2014 to present
 
-- develop and maintain the [scuttlebutt.nz](https://www.scuttlebutt.nz) website to share more than the "what" and "how" of technical documentation: the "why" of cultural principles
-- leading the ["Sunrise Choir"](https://viewer.scuttlebot.io/%25zv56AbEcR1%2BXKcOF3E7J%2BHNoKrxsd%2B0MQ%2FeVPQanfb8%3D.sha256), an effort to evolve Scuttlebutt beyond a working prototype into a more serious project, with developer friendliness (accessibility & maintainability), well-specified behaviors, well-described designs, well-documented functionality, well-coordinated teams, better release processes
+- lead the ["Sunrise Choir"](https://viewer.scuttlebot.io/%25zv56AbEcR1%2BXKcOF3E7J%2BHNoKrxsd%2B0MQ%2FeVPQanfb8%3D.sha256), an effort to evolve Scuttlebutt beyond a working prototype into a more serious project, with developer friendliness (accessibility & maintainability), well-specified behaviors, well-described designs, well-documented functionality, well-coordinated teams, better release processes
   - self-funding $60k USD to support 2 developers full-time for 6 months
 - lead by example on a culture of welcoming newbies with friendly open questions
 - act as the "cypherhistorian / cryptoarcheologist / peerlibrarian": curating existing knowledge, organizing links, and routing humans on where they can discover the answers they seek
-- support swarm of technical developers, sharing relevant information across parallel work streams, providing code reviews, and giving feedback
-- building [PeachCloud](https://github.com/peachcloud/meta) 🍑☁️, a Scuttlebutt infrastructure-as-a-service product
+- support swarm of technical developers, sharing relevant information across parallel work streams, hosting office hours, providing code reviews, and giving feedback
+- build [PeachCloud](https://github.com/peachcloud/meta) 🍑☁️, a Scuttlebutt infrastructure-as-a-service product
+- maintain the [scuttlebutt.nz](https://www.scuttlebutt.nz) website to share more than the "what" and "how" of technical documentation: the "why" of cultural principles
 
 ### Founder & Host @ [Art~Hack Wellington](https://arthack.nz)
 
@@ -95,6 +80,22 @@ July 2014 to present
 - support others with their projects, whether improvisational music, live-coded visuals, reactive lights, singing, drawing, dancing, crochet, reading, sewing, conversing, etc
 
 ## Prior Work
+
+### Co-Founder & CTO @ [Root Systems](https://www.rootsystems.nz)
+
+<img src="./images/root-systems.jpg" alt="Root Systems retreat" />
+
+May 2016 to December 2018
+
+- maintained technical principles, stacks, and assets for team of 7 developers
+- facilitated team meetings, away days, and retreats to unpack latent senses and re-pack into coherent strategy
+- organize and adapt team processes to support productive work from healthy and happy humans
+- developed full-stack JavaScript frameworks, one [from scratch](https://github.com/root-systems/catstack), one [from existing libraries](https://github.com/root-systems/dogstack), used by the team on real-world projects
+- delivered value for clients and delightful software for users:
+  - [Minded](http://mindedapp.com/)
+  - [Connection](https://www.makebamboo.com/connection/)
+  - [WebPunch](https://webpunch12.com/)
+
 
 ### Open Source Mad Science
 
