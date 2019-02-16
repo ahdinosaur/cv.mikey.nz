@@ -22,12 +22,13 @@ I now want to use my skills to lead teams in delivering value to meet clear outc
 
 - effective at amplifying junior and intermediate developers with technical and organizational support and coaching
 - strong at communicating complex technical concepts using only simple and accessible terms
-- confident in leading teams into uncharted territories, deconstructing intractable problems, creating legible maps, and spinning up strategic work streams for other developers
+- confident in leading teams into uncharted territories, deconstructing intractable problems, creating legible maps, spinning up strategic work streams for other developers, supporting the team as we adapt along our journey together
 - understand JavaScript web app stacks from top to bottom by reinventing the wheels multiple times
 - practiced in circumspect group facilitation, from everyday meetings to project retrospectives to community engagement to long-term company retreats
 - proficient with JavaScript, Rust, Ruby (on Rails), Python, Clojure, and C
 - performant in using decentralized platforms (Scuttlebutt, Dat, IPFS, Bitcoin) and web technologies (React, Angular, HTML & CSS) to quickly create accessible, responsive, and magical user-centric apps
-- skilled in using Linux systems for every occasion, from personal use to adminstration, from scaling infrastructure (Docker Swarm or Kubernetes or Salt Stack) to managing a system (Debian, Bash, Systemd)
+- skilled in using Linux systems for every occasion, from personal use to adminstration, from scaling infrastructure (Docker Swarm or Kubernetes or Salt Stack) to managing a local system (Debian, Bash, Systemd)
+- adept in hardware systems for a variety of purposes, from programming microcontrollers to small Linux computers, from designing 3d models to circuit boards, while keeping in mind the entire deployment lifecycle from manufacturing to maintainence
 
 ## References
 
@@ -59,12 +60,13 @@ I now want to use my skills to lead teams in delivering value to meet clear outc
 
 August 2014 to present
 
-- lead the ["Sunrise Choir"](https://viewer.scuttlebot.io/%25zv56AbEcR1%2BXKcOF3E7J%2BHNoKrxsd%2B0MQ%2FeVPQanfb8%3D.sha256), an effort to evolve Scuttlebutt beyond a working prototype into a more serious project, with developer friendliness (accessibility & maintainability), well-specified behaviors, well-described designs, well-documented functionality, well-coordinated teams, better release processes
+- lead the [(Rusty) Sunrise Choir](https://sunrisechoir.com) team, an effort to evolve Scuttlebutt beyond a working prototype into a more serious project with an improved core protocol (in Rust), with developer friendliness (accessibility & maintainability), well-specified behaviors, well-described designs, well-documented functionality, well-coordinated teams, better release processes
   - self-funding $60k USD to support 2 developers full-time for 6 months
 - lead by example on a culture of welcoming newbies with friendly open questions
-- act as the "cypherhistorian / cryptoarcheologist / peerlibrarian": curating existing knowledge, organizing links, and routing humans on where they can discover the answers they seek
 - support swarm of technical developers, sharing relevant information across parallel work streams, hosting office hours, providing code reviews, and giving feedback
-- build [PeachCloud](https://github.com/peachcloud/meta) 🍑☁️, a Scuttlebutt infrastructure-as-a-service product
+- act as a project "elder", am on the governance team to distribute our most recent funding, the Handshake Grant
+- act as the "cypherhistorian / cryptoarcheologist / peerlibrarian": curating existing knowledge, organizing links, [giving talks](https://vimeo.com/283993534), routing humans on where they can discover the answers they seek
+- lead a team to build [PeachCloud](https://peachcloud.org) 🍑☁️, a hardware product focused on Scuttlebutt infrastructure-as-a-service
 - maintain the [scuttlebutt.nz](https://www.scuttlebutt.nz) website to share more than the "what" and "how" of technical documentation: the "why" of cultural principles
 
 ### Founder & Host @ [Art~Hack Wellington](https://arthack.nz)
@@ -74,9 +76,9 @@ August 2014 to present
 July 2014 to present
 
 - every week, host a safe space for creatives to gather, show, converse, and jam
-- starting with Winter 2018, every quarter, host a public expo that is half art exhibition and half live performances.
+- starting with Winter 2018, every quarter, host a public expo that is half art exhibition and half live performances
 - provide a point of introduction for newbies who want to join
-- manage the vibe, promote friendly behavior and be ready for unsafe behavior
+- manage the vibe, promote friendly behavior, and be ready for unsafe behavior
 - support others with their projects, whether improvisational music, live-coded visuals, reactive lights, singing, drawing, dancing, crochet, reading, sewing, conversing, etc
 
 ## Prior Work
