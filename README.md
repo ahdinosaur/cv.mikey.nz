@@ -54,20 +54,9 @@ I now want to use my skills to lead teams in delivering value to meet clear outc
 
 ## Current Work
 
-### Core Contributor @ [Scuttlebutt](https://www.scuttlebutt.nz)
+### Founder @ [Village Kit](https://villagekit.com)
 
-<img alt="Scuttlebutt coloring session at the Decentralized Web Summit" src="./images/scuttlebutt.jpg" />
-
-August 2014 to present
-
-- lead the [(Rusty) Sunrise Choir](https://sunrisechoir.com) team, an effort to evolve Scuttlebutt beyond a working prototype into a more serious project with an improved core protocol (in Rust), with developer friendliness (accessibility & maintainability), well-specified behaviors, well-described designs, well-documented functionality, well-coordinated teams, better release processes
-  - self-funding $60k USD to support 2 developers full-time for 6 months
-- lead by example on a culture of welcoming newbies with friendly open questions
-- support swarm of technical developers, sharing relevant information across parallel work streams, hosting office hours, providing code reviews, and giving feedback
-- act as a project "elder", am on the governance team to distribute our most recent funding, the Handshake Grant
-- act as the "cypherhistorian / cryptoarcheologist / peerlibrarian": curating existing knowledge, organizing links, [giving talks](https://vimeo.com/283993534), routing humans on where they can discover the answers they seek
-- lead a team to build [PeachCloud](https://peachcloud.org) 🍑☁️, a hardware product focused on Scuttlebutt infrastructure-as-a-service
-- maintain the [scuttlebutt.nz](https://www.scuttlebutt.nz) website to share more than the "what" and "how" of technical documentation: the "why" of cultural principles
+May 2022 to present
 
 ### Founder & Host @ [Art~Hack Wellington](https://arthack.nz)
 
@@ -82,6 +71,29 @@ July 2014 to present
 - support others with their projects, whether improvisational music, live-coded visuals, reactive lights, singing, drawing, dancing, crochet, reading, sewing, conversing, etc
 
 ## Prior Work
+
+### Core Contributor @ [Scuttlebutt](https://www.scuttlebutt.nz)
+
+<img alt="Scuttlebutt coloring session at the Decentralized Web Summit" src="./images/scuttlebutt.jpg" />
+
+August 2014 to ???
+
+- lead the [(Rusty) Sunrise Choir](https://sunrisechoir.com) team, an effort to evolve Scuttlebutt beyond a working prototype into a more serious project with an improved core protocol (in Rust), with developer friendliness (accessibility & maintainability), well-specified behaviors, well-described designs, well-documented functionality, well-coordinated teams, better release processes
+  - self-funding $60k USD to support 2 developers full-time for 6 months
+- lead by example on a culture of welcoming newbies with friendly open questions
+- support swarm of technical developers, sharing relevant information across parallel work streams, hosting office hours, providing code reviews, and giving feedback
+- act as a project "elder", am on the governance team to distribute our most recent funding, the Handshake Grant
+- act as the "cypherhistorian / cryptoarcheologist / peerlibrarian": curating existing knowledge, organizing links, [giving talks](https://vimeo.com/283993534), routing humans on where they can discover the answers they seek
+- lead a team to build [PeachCloud](https://peachcloud.org) 🍑☁️, a hardware product focused on Scuttlebutt infrastructure-as-a-service
+- maintain the original [scuttlebutt.nz](https://www.scuttlebutt.nz) (now [handbook.scuttlebutt.nz](https://handbook.scuttlebutt.nz)) website to share more than the "what" and "how" of technical documentation: the "why" of cultural principles
+
+### CTO @ [Choice To Pay](https://choicetopay.com)
+
+May 2019 to May 2021
+
+- lead a small development team to build a React website, a React Native mobile app, and a Ruby on Rails backend
+- integrate with legacy banking systems to manage incoming and outgoing financial settlements
+- expose, document, and maintain an API for merchant payment devices to integrate with our payments system
 
 ### Co-Founder & CTO @ [Root Systems](https://www.rootsystems.nz)
 
