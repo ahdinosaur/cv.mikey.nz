@@ -56,7 +56,7 @@ I now want to use my skills to lead teams in delivering value to meet clear outc
 
 ### Founder @ [Village Kit](https://villagekit.com)
 
-May 2022 to present
+May 2020 to present
 
 ### Founder & Host @ [Art~Hack Wellington](https://arthack.nz)
 
