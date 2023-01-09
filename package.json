@@ -5,7 +5,11 @@
   "type": "module",
   "description": "dinosaur's cv",
   "scripts": {
-    "build": "mkdir -p public && cp -r index.css images references public && node ."
+    "dev": "npm-run-all -p build:watch server",
+    "start": "npm-run-all -s build server",
+    "server": "serve public",
+    "build": "mkdir -p public && cp -r index.css images references public && node .",
+    "build:watch": "SHELL=/bin/bash chokidar README.md 'references/*.md' --initial -c 'npm run build'"
   },
   "repository": {
     "type": "git",
@@ -29,5 +33,10 @@
     "to-vfile": "^7.2.3",
     "unified": "^10.1.2",
     "vfile-reporter": "^7.0.4"
+  },
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "npm-run-all": "^4.1.5",
+    "serve": "^14.1.2"
   }
 }
