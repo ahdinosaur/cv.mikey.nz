@@ -14,8 +14,8 @@ I've undergone a wide arc of experiments in reinventing wheels, from playing wit
 
 I now want to use my skills to lead teams in delivering value to meet clear outcomes.
 
-- Website: [dinosaur.is](https://dinosaur.is)
-- Email: [mikey+cv@enspiral.com](mailto:mikey+cv@enspiral.com)
+- Website: [mikey.nz](https://mikey.nz)
+- Email: [hello@mikey.nz](mailto:hello@mikey.nz)
 - Location: [Newtown, Wellington, New Zealand](https://en.wikipedia.org/wiki/Newtown%2C_New_Zealand)
 
 ## Skills
