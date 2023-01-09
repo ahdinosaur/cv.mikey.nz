@@ -1,16 +1,21 @@
-var vfile = require('to-vfile')
-var report = require('vfile-reporter')
-var unified = require('unified')
-var markdown = require('remark-parse')
-var htmlEmojiImage = require('remark-html-emoji-image');
-var mdast2hast = require('remark-rehype')
-var doc = require('rehype-document')
-var format = require('rehype-format')
-var html = require('rehype-stringify')
-var raw = require('rehype-raw')
+import { argv } from 'node:process'
+import { write, read } from 'to-vfile'
+import { reporter } from 'vfile-reporter'
+import { unified } from 'unified'
+import markdown from 'remark-parse'
+import htmlEmojiImage from 'remark-html-emoji-image'
+import mdast2hast from 'remark-rehype'
+import doc from 'rehype-document'
+import format from 'rehype-format'
+import html from 'rehype-stringify'
+import raw from 'rehype-raw'
 
-function process ({ inputFile, outputPath, title }) {
-  return unified()
+const outputDir = argv[2]
+
+async function process ({ inputPath, outputPath, title }) {
+  const inputFile = await read(inputPath)
+
+  const outputFile = await unified()
     .use(markdown)
     .use(htmlEmojiImage, { base: '/images/' })
     .use(mdast2hast, {
@@ -25,23 +30,23 @@ function process ({ inputFile, outputPath, title }) {
     })
     .use(format)
     .use(html)
-    .process(inputFile, function(err, file) {
-      console.error(report(err || file))
-      vfile.writeSync({
-        path: outputPath,
-        contents: file.contents
-      })
-    })
+    .process(inputFile)
 
+  console.error(reporter(outputFile))
+
+  await write({
+    path: outputPath,
+    value: outputFile.value
+  })
 }
 
 process({
-  inputFile: vfile.readSync('README.md'),
-  outputPath: 'index.html',
+  inputPath: 'README.md',
+  outputPath: 'public/index.html',
   title: '😺🎉 Mikey Williams ☀️🌈'
 })
 process({
-  inputFile: vfile.readSync('references/mix.md'),
-  outputPath: 'references/mix.html',
+  inputPath: 'references/mix.md',
+  outputPath: 'public/references/mix.html',
   title: 'Mix on Mikey Williams'
 })

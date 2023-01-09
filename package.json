@@ -2,10 +2,10 @@
   "name": "cv",
   "private": true,
   "version": "0.0.0",
+  "type": "module",
   "description": "dinosaur's cv",
   "scripts": {
-    "build": "node .",
-    "dist": "npm run build && mkdir -p dist && cp -r index.html index.css images references dist"
+    "build": "mkdir -p public && cp -r index.css images references public && node ."
   },
   "repository": {
     "type": "git",
@@ -18,16 +18,16 @@
   },
   "homepage": "https://github.com/ahdinosaur/cv#readme",
   "dependencies": {
-    "rehype-document": "^2.2.0",
-    "rehype-format": "^2.3.0",
-    "rehype-raw": "^3.0.0",
-    "rehype-stringify": "^4.0.0",
-    "remark": "^10.0.0",
+    "rehype-document": "^6.1.0",
+    "rehype-format": "^4.0.1",
+    "rehype-raw": "^6.1.1",
+    "rehype-stringify": "^9.0.3",
+    "remark": "^14.0.2",
     "remark-html-emoji-image": "^1.0.0",
-    "remark-parse": "^6.0.0",
-    "remark-rehype": "^3.0.1",
-    "to-vfile": "^5.0.1",
-    "unified": "^7.0.0",
-    "vfile-reporter": "^5.0.0"
+    "remark-parse": "^10.0.1",
+    "remark-rehype": "^10.1.0",
+    "to-vfile": "^7.2.3",
+    "unified": "^10.1.2",
+    "vfile-reporter": "^7.0.4"
   }
 }
