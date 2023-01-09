@@ -24,6 +24,7 @@
   "dependencies": {
     "rehype-document": "^6.1.0",
     "rehype-format": "^4.0.1",
+    "rehype-meta": "^3.3.2",
     "rehype-raw": "^6.1.1",
     "rehype-stringify": "^9.0.3",
     "remark": "^14.0.2",
